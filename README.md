@@ -13,4 +13,4 @@
     1 error
 ---
 When the compiler sees the decimal point in `5.0` it assumes the value is a double.
-To allow compilation [remove the decimal point](https://github.com/cards4j/ex1). 
+To allow compilation [remove the decimal point](https://github.com/cards4j/ex2). 
