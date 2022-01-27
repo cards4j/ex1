@@ -1,4 +1,4 @@
-#ex1: literal declaration causes compilation error
+# ex1: literal declaration causes compilation error
 
     01 public class Ex1  {
     02    public static void main(String[] args) {
